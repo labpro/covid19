@@ -1,0 +1,12 @@
+
+Peças para fazer a reforma geral da impressora do LabPRO
+--------------------------------------------------------
+
+- rolamento linear de esferas LM8UU
+
+  - 12 unidades
+  - Diâmetro Externo : 15 mm
+  - Diâmetro Interno :  8 mm
+  - Comprimento      : 24 mm
+  - Motivação        : muito gastos
+

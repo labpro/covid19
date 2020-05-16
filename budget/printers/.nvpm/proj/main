@@ -1,0 +1,27 @@
+
+# NVPM New Project File. It works!
+# --------------------------------
+# 
+# --> main
+
+workspace LabPRO [Covid-19]
+
+  tab Main
+    buff README : readme.txt
+
+  tab Estoque & Consumo
+    buff peças            : estoque.txt
+    buff ferramentas      : ferramentas.txt
+    buff itens-de-consumo : itens-consumo.txt
+
+  tab LabPRO-Printer
+    buff conserto : labpro-conserto.txt
+    buff upgrade  : labpro-upgrade.txt
+
+  tab Biomédica-Printer
+    buff conserto : biomedica-conserto.txt
+    buff reforma  : biomedica-upgrade.txt
+
+  tab Arquitetura-Printer
+    buff conserto : arquitetura-conserto.txt
+    buff reforma  : arquitetura-upgrade.txt

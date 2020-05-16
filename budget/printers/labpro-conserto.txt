@@ -1,0 +1,12 @@
+
+# Impressora LabPRO: Conserto e Troca de Peças Gastas
+
+Peças essenciais para o conserto e peças de reposição
+-----------------------------------------------------
+
+- Display de LCD com Smart Controller 20 caracteres por 4 linhas
+  com leitor de cartão SD, conexão com shield RAMPS e com os cabos
+
+  - Não está lendo o cartão SD. Sem isso precisa do computador para 
+    imprimir via cabo USB
+  - este item está descrito no arquivo "estoque.txt"

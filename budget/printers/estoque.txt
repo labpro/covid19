@@ -1,0 +1,75 @@
+# Lista de peças de reposição para impressoras 3D
+-------------------------------------------------
+
+Os itens abaixo se enquadram em itens essenciais de reposição de peças de impressoras 3D, afim de que nenhuma das máquinas fiquem paradas em caso de pane. São itens comuns a vários modelos de impressoras e que devido ao uso intenso (20-24 h/dia, 7 dias/semana), muito provalmente aprensentarão problemas (e já estão) e que, portanto, precisam de reposição. Motivos comuns:
+
+  - Superaquecimento
+  - Quedas de energias
+  - Desgastes mecânicos
+  - Outros acidentes
+
+São os itens
+------------
+
+- Cartucho aquecedor 12V 40W Hotend Impressora 3D
+  - de 2 a 5 unidades 
+  - Vem com cabo especial (geralmente vermelho)
+  - 1 metro de cabo
+
+- Termistor NTC-3950 100k ohm para impressora 3D
+  - de 2 a 5 unidades 
+  - cabo de 1 metro
+  - com barra de pino conector fêmea
+
+- Chave de fim de curso mecânico (Endstop) para impressora 3D 
+  - 3 a 6 unidades
+  - com cabos
+
+- Arduino Mega 2560 R3
+  - 2 unidades
+  - com cabo USB de 1 a 1.5 metros na mesma quantidade
+
+- Display de LCD com Smart Controller 20 caracteres por 4 linhas
+  com leitor de cartão SD, conexão com shield RAMPS e com os cabos
+  - 2 unidades
+  - 20x4 caracter/linha
+  - SD card
+  - Cabo RAMPS
+
+- Cartão de memória SD
+  - 4 unidades
+  - capacidade de 1GB ou superior
+  - preferência por cartão com micro SD destacável
+
+- Placa Shield-RepRap Ramps 1.4A para Impressora 3D
+  - 2 unidades
+
+- Fonte Chaveada BiVolt 360W - 12V 30A
+  - 2 unidades
+  - Tensão de Saida DC   : 12V
+  - Corrente Máxima DC   : 30A
+  - Potência Nominal     : 360W
+  - Tensão de Entrada AC : 110/220V com chave de ajuste
+  - Aplicadas em         : câmeras, fitas de LED, Som automotivo, impressora 3D
+
+- Driver Controladora de Motor de Passo Pololu A4988 com dissipador de calor
+  - 5 unidades
+                 
+- Cooler MicroFan (ventoinha) 12V
+
+  - Dimensões: 30x30x10 mm ou 30x30x20 mm (1 unidade)
+  - Dimensões: 40x40x10 mm ou 40x40x20 mm (1 unidade)
+  - Dimensões: 50x50x10 mm ou 50x50x20 mm (1 unidade)
+  - Tensão de operação  : 12V DC
+  - Cabeamento          : dois fios vermelho e preto (1 metro) pino fêmea
+
+- Fio elétrico de cobre residencial
+
+  - 5 metros na cor preta e 5 metros na cor vermelha
+  - Diâmetro externo de 3 mm a 4 mm (contando com o isolamento de borracha)
+  - que suporte corrente elétrica DC de 15 até 20 Amps a 12V
+    - 11 Amperes para a cama aquecida
+    - 5  Amperes para motores, extrusor e eletrônica
+  - OBS: fios menores não aguentam o calor e queimam. Já provocou a queima 
+         de componentes da Ramps, bem como queimou o Arduino.
+
